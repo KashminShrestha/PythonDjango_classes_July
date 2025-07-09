@@ -1,0 +1,1 @@
+#print 6 to 12 using while loop.
