@@ -1,0 +1,1 @@
+start =("yes" == input("Do you want to perform another calculation? (yes/no): ").strip().lower())
